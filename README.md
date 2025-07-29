@@ -1,1 +1,1 @@
-A simple chat applicatiom called chat everyday
+HmmA simple chat application called chat everyday
